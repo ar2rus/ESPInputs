@@ -1,0 +1,17 @@
+{
+  "name": "ESPInputs",
+  "description": "ESP8266 Arduino input-pins state change listener",
+  "keywords": "espinputs,input,port,listener",
+  "authors":
+  {
+    "name": "Arthur Nikiforov",
+    "maintainer": true
+  },
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/ar2rus/ESPInputs.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "espressif"
+}

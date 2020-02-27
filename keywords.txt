@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map For Ultrasound
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ESPInputs	KEYWORD1
+inputs	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+handle	KEYWORD2
+on	KEYWORD2
+remove	KEYWORD2
+handle	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+STATE_LOW	LITERAL1
+STATE_HIGH	LITERAL1
+STATE_CHANGE	LITERAL1
